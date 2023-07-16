@@ -5,7 +5,7 @@ This repo collects papers, docs, codes about spiking neural networks for anyone 
 ## Table of Contents
 
 - [Survey Papers](#Survey_Papers)
-  - [Survey_of_Direct_Training_Method](#Survey_of_Direct_Training_Method)
+  - [Survey of Direct Training Method](#Survey_of_Direct_Training_Method)
   - [Survey of ANN-SNN](#Survey_of_ANN-SNN)
 - [Papers](#Papers)
   - [2023](#2023)
