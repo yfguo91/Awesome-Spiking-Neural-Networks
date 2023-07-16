@@ -5,7 +5,7 @@ This repo collects papers, docs, codes about spiking neural networks for anyone 
 ## Table of Contents
 
 - [Survey Papers](#Survey_Papers)
-  - [Survey of direct training method](#Survey_of_direct_training_method)
+  - [Survey of direct training method](#Survey_of_Direct_Training_Method)
   - [Survey of ANN-SNN](#Survey_of_ANN-SNN)
 - [Papers](#Papers)
   - [2023](#2023)
@@ -22,7 +22,7 @@ This repo collects papers, docs, codes about spiking neural networks for anyone 
 
 ## Survey_Papers
 
-### Survey_of_direct_training_method
+### Survey_of_Direct_Training_Method
 
 Our survey paper **Direct Learning-Based Deep Spiking Neural Networks: A Review** (_Frontiers in Neuroscience_) is a comprehensive survey of recent progress in directly training spiking neural networks. For details, please refer to:
 
@@ -52,7 +52,7 @@ The survey paper
 ### 2023
 
 - [[ICML](https://openreview.net/pdf?id=GdkwSGTpbC)] Adaptive Smoothing Gradient Learning for Spiking Neural Networks
-- [[ICML](https://arxiv.org/abs/2306.03078)] Surrogate Module Learning: Reduce the Gradient Error Accumulation in Training Spiking Neural Networks [[code](https://github.com/brain-intelligence-lab/surrogate_module_learning)]
+- [[ICML](https://openreview.net/pdf?id=zRkz4duLKp)] Surrogate Module Learning: Reduce the Gradient Error Accumulation in Training Spiking Neural Networks [[code](https://github.com/brain-intelligence-lab/surrogate_module_learning)]
 
 
 ## Codes_and_Docs
