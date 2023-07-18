@@ -91,8 +91,26 @@ The survey paper
 - [[ICML](https://arxiv.org/pdf/2201.12738.pdf)] AutoSNN: Towards Energy-Efficient Spiking Neural Networks
 - [[ICML](https://arxiv.org/pdf/2204.01668.pdf)] Scalable Spike-and-Slab
 - [[ICML](https://proceedings.mlr.press/v162/khajehnejad22a/khajehnejad22a.pdf)] Neural Network Poisson Models for Behavioural and Neural Spike Train Data
+- [[CVPR](https://arxiv.org/pdf/2203.14679.pdf)] Brain-inspired Multilayer Perceptron with Spiking Neurons [[code](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/snnmlp_pytorch)]
+- [[CVPR](https://arxiv.org/pdf/2205.00459.pdf)] Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation [[code](https://github.com/qymeng94/DSR)]  
+- [[CVPR](https://arxiv.org/pdf/2201.10943.pdf)] Event-based Video Reconstruction via Potential-assisted Spiking Neural Network [[code](https://github.com/LinZhu111/EVSNN)]  
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_RecDis-SNN_Rectifying_Membrane_Potential_Distribution_for_Directly_Training_Spiking_Neural_CVPR_2022_paper.pdf)] RecDis-SNN: Rectifying Membrane Potential Distribution for Directly Training Spiking Neural Networks
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf)] Spiking Transformers for Event-Based Single Object Tracking [[code](https://github.com/Jee-King/CVPR2022_STNet)]  
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Optical_Flow_Estimation_for_Spiking_Camera_CVPR_2022_paper.pdf)] Optical Flow Estimation for Spiking Camera [[code](https://github.com/Acnext/Optical-Flow-For-Spiking-Camera)]
+- [[ECCV](https://arxiv.org/pdf/2207.01382.pdf)] Exploring Lottery Ticket Hypothesis in Spiking Neural Networks [[code](https://github.com/Intelligent-Computing-Lab-Yale/Exploring-Lottery-Ticket-Hypothesis-in-SNNs)]
+- [[ECCV](https://arxiv.org/pdf/2203.06145.pdf)] Neuromorphic Data Augmentation for Training Spiking Neural Networks [[code](https://github.com/Intelligent-Computing-Lab-Yale/NDA_SNN)]
+- [[ECCV](https://arxiv.org/pdf/2201.10355.pdf)] Neural Architecture Search for Spiking Neural Networks [[code](https://github.com/Intelligent-Computing-Lab-Yale/Neural-Architecture-Search-for-Spiking-Neural-Networks)]
+- [[ECCV](https://arxiv.org/pdf/2210.06686.pdf)] Real Spike: Learning Real-valued Spikes for Spiking Neural Networks [[code](https://github.com/yfguo91/Real-Spike)]
+- [[ECCV](https://arxiv.org/pdf/2307.04356.pdf)] Reducing Information Loss for Spiking Neural Networks [[code](https://github.com/yfguo91/Re-Loss)]
+- [[ICLR](https://openreview.net/pdf?id=7B3IJMM1k_M)] Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks [[code](https://github.com/putshua/SNN_conversion_QCFS)]  
+- [[ICLR](https://openreview.net/pdf?id=iMH1e5k7n3L)] Spike-inspired rank coding for fast and accurate recurrent neural networks
+- [[ICLR](https://openreview.net/pdf?id=bp-LJ4y_XC)] Sequence Approximation using Feedforward Spiking Neural Network for Spatiotemporal Learning: Theory and Optimization Methods
+- [[ICLR](https://openreview.net/pdf?id=_XNtisL32jv)] Temporal Efficient Training of Spiking Neural Network via Gradient Re-weighting [[code](https://github.com/brain-intelligence-lab/temporal_efficient_training)]  
 
-  
+
+
+
+
 
 ## Codes_and_Docs
 
