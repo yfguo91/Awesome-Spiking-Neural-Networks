@@ -86,7 +86,6 @@ The survey paper
 - [[IJCAI](https://www.ijcai.org/proceedings/2022/0347.pdf)] Signed Neuron with Memory: Towards Simple, Accurate and High-Effcient ANN-SNN Conversion [[code](https://github.com/ppppps/ANN2SNNConversion_SNM_NeuronNorm)]
 - [[IJCAI](https://www.ijcai.org/proceedings/2022/0396.pdf)] Self-Supervised Mutual Learning for Dynamic Scene Reconstruction of Spiking Camera
 - [[IJCAI](https://www.ijcai.org/proceedings/2022/0343.pdf)] Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks [[code](https://github.com/langfengQ/MLF-DSResNet)]
-- [[IJCAI](https://www.ijcai.org/proceedings/2022/0343.pdf)] Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks [[code](https://github.com/langfengQ/MLF-DSResNet)]
 - [[ICML](https://proceedings.mlr.press/v162/chen22ac/chen22ac.pdf)] State Transition of Dendritic Spines Improves Learning of Sparse Spiking Neural Networks
 - [[ICML](https://arxiv.org/pdf/2201.12738.pdf)] AutoSNN: Towards Energy-Efficient Spiking Neural Networks
 - [[ICML](https://arxiv.org/pdf/2204.01668.pdf)] Scalable Spike-and-Slab
