@@ -69,18 +69,18 @@ The survey paper
 - [[NeurIPS](https://openreview.net/pdf?id=xwBdjfKt7_W)] SNN-RAT: Robustness-enhanced Spiking Neural Network through Regularized Adversarial Training
 - [[NeurIPS](https://openreview.net/pdf?id=xwBdjfKt7_W)] Emergence of Hierarchical Layers in a Single Sheet of Self-Organizing Spiking Neurons
 - [[NeurIPS](https://openreview.net/pdf?id=d4JmP1T45WE)] Training Spiking Neural Networks with Event-driven Backpropagation
-- [[NeurIPS](https://openreview.net/pdf?id=Jw34v_84m2b)] IM-Loss: Information Maximization Loss for Spiking Neural Networks [[code](https://github.com/yfguo91/IM-Loss-Information-Maximization-Loss-for-Spiking-Neural-Networks)]
+- [[NeurIPS](https://openreview.net/pdf?id=Jw34v_84m2b)] IM-Loss: Information Maximization Loss for Spiking Neural Networks
 - [[NeurIPS](https://openreview.net/pdf?id=ckQvYXizgd1)] The computational and learning benefits of Daleian neural networks
 - [[NeurIPS](https://openreview.net/pdf?id=-yiZR4_Xhh)] Dance of SNN and ANN: Solving binding problem by combining spike timing and reconstructive attention
 - [[NeurIPS](https://openreview.net/pdf?id=3vYkhJIty7E)] Learning Optical Flow from Continuous Spike Streams [[code](https://github.com/ruizhao26/Spike2Flow)]
 - [[NeurIPS](https://openreview.net/pdf?id=iUOUnyS6uTf)] STNDT: Modeling Neural Population Activity with Spatiotemporal Transformers
 - [[AAAI](https://arxiv.org/pdf/2202.01440.pdf)] Optimized Potential Initialization for Low-latency Spiking Neural Networks
 - [[AAAI](https://arxiv.org/pdf/2104.03414.pdf)] PrivateSNN: Privacy-Preserving Spiking Neural Networks
-
-
-
-
-
+- [[AAAI](https://aaai.org/AAAI22Papers/AAAI-364.LiuF.pdf)] SpikeConverter: An Efficient Conversion Framework Zipping the Gap between Artificial Neural Networks and Spiking Neural Networks
+- [[AAAI](https://aaai.org/AAAI22Papers/AAAI-884.ZhangD.pdf)] Multi-sacle Dynamic Coding improved Spiking Actor Network for Reinforcement Learning
+- [[AAAI](https://arxiv.org/pdf/2110.00375.pdf)] Fully Spiking Variational Autoencoder [[code](https://github.com/kamata1729/FullySpikingVAE)]
+- [[AAAI](https://arxiv.org/pdf/2109.01905.pdf)] Spiking Neural Networks with Improved Inherent Recurrence Dynamics for Sequential Learning
+- [[AAAI](https://arxiv.org/pdf/2109.04871.pdf)] Spatio-Temporal Recurrent Networks for Event-Based Optical Flow Estimation [[code](https://github.com/ruizhao26/STE-FlowNet)]
 
 
 ## Codes_and_Docs
