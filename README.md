@@ -74,9 +74,8 @@ The survey paper
 - [[NeurIPS](https://openreview.net/pdf?id=-yiZR4_Xhh)] Dance of SNN and ANN: Solving binding problem by combining spike timing and reconstructive attention
 - [[NeurIPS](https://openreview.net/pdf?id=3vYkhJIty7E)] Learning Optical Flow from Continuous Spike Streams [[code](https://github.com/ruizhao26/Spike2Flow)]
 - [[NeurIPS](https://openreview.net/pdf?id=iUOUnyS6uTf)] STNDT: Modeling Neural Population Activity with Spatiotemporal Transformers
-
-
-
+- [[AAAI](https://arxiv.org/pdf/2202.01440.pdf)] Optimized Potential Initialization for Low-latency Spiking Neural Networks
+- [[AAAI](https://arxiv.org/pdf/2104.03414.pdf)] PrivateSNN: Privacy-Preserving Spiking Neural Networks
 
 
 
