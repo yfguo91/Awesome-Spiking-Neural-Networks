@@ -81,7 +81,18 @@ The survey paper
 - [[AAAI](https://arxiv.org/pdf/2110.00375.pdf)] Fully Spiking Variational Autoencoder [[code](https://github.com/kamata1729/FullySpikingVAE)]
 - [[AAAI](https://arxiv.org/pdf/2109.01905.pdf)] Spiking Neural Networks with Improved Inherent Recurrence Dynamics for Sequential Learning
 - [[AAAI](https://arxiv.org/pdf/2109.04871.pdf)] Spatio-Temporal Recurrent Networks for Event-Based Optical Flow Estimation [[code](https://github.com/ruizhao26/STE-FlowNet)]
+- [[IJCAI](https://arxiv.org/pdf/2204.13271.pdf)] Efficient and Accurate Conversion of Spiking Neural Network with Burst Spikes [[code](https://github.com/Brain-Cog-Lab/Conversion_Burst)]
+- [[IJCAI](https://arxiv.org/pdf/2205.02767.pdf)] Spiking Graph Convolutional Networks [[code](https://github.com/ZulunZhu/SpikingGCN)]
+- [[IJCAI](https://www.ijcai.org/proceedings/2022/0347.pdf)] Signed Neuron with Memory: Towards Simple, Accurate and High-Effcient ANN-SNN Conversion [[code](https://github.com/ppppps/ANN2SNNConversion_SNM_NeuronNorm)]
+- [[IJCAI](https://www.ijcai.org/proceedings/2022/0396.pdf)] Self-Supervised Mutual Learning for Dynamic Scene Reconstruction of Spiking Camera
+- [[IJCAI](https://www.ijcai.org/proceedings/2022/0343.pdf)] Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks [[code](https://github.com/langfengQ/MLF-DSResNet)]
+- [[IJCAI](https://www.ijcai.org/proceedings/2022/0343.pdf)] Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks [[code](https://github.com/langfengQ/MLF-DSResNet)]
+- [[ICML](https://proceedings.mlr.press/v162/chen22ac/chen22ac.pdf)] State Transition of Dendritic Spines Improves Learning of Sparse Spiking Neural Networks
+- [[ICML](https://arxiv.org/pdf/2201.12738.pdf)] AutoSNN: Towards Energy-Efficient Spiking Neural Networks
+- [[ICML](https://arxiv.org/pdf/2204.01668.pdf)] Scalable Spike-and-Slab
+- [[ICML](https://proceedings.mlr.press/v162/khajehnejad22a/khajehnejad22a.pdf)] Neural Network Poisson Models for Behavioural and Neural Spike Train Data
 
+  
 
 ## Codes_and_Docs
 
