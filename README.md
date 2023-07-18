@@ -53,9 +53,40 @@ The survey paper
 - [[ICML](https://openreview.net/pdf?id=zRkz4duLKp)] Surrogate Module Learning: Reduce the Gradient Error Accumulation in Training Spiking Neural Networks [[code](https://github.com/brain-intelligence-lab/surrogate_module_learning)]
 
 
+### 2022
+
+- [[NeurIPS](https://arxiv.org/pdf/2210.13768.pdf)] GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks [[code](https://github.com/Ikarosy/Gated-LIF)]
+- [[NeurIPS](https://arxiv.org/pdf/2206.04426.pdf)] Biologically Inspired Dynamic Thresholds for Spiking Neural Networks
+- [[NeurIPS](https://arxiv.org/pdf/2210.04195.pdf)] Online Training Through Time for Spiking Neural Networks [[code](https://github.com/pkuxmq/OTTT-SNN)]
+- [[NeurIPS](https://arxiv.org/pdf/2205.13493.pdf)] Mesoscopic modeling of hidden spiking neurons
+- [[NeurIPS](https://openreview.net/pdf?id=fLIgyyQiJqz)] Temporal Effective Batch Normalization in Spiking Neural Networks
+- [[NeurIPS](https://openreview.net/pdf?id=Lr2Z85cdvB)] Differentiable hierarchical and surrogate gradient search for spiking neural networks 
+- [[NeurIPS](https://openreview.net/pdf?id=BbaSRgUHW3)] LTMD: Learning Improvement of Spiking Neural Networks with Learnable Thresholding Neurons and Moderate Dropout
+- [[NeurIPS](https://openreview.net/pdf?id=I0CiI7Oyp1E)] Theoretically Provable Spiking Neural Networks
+- [[NeurIPS](https://openreview.net/pdf?id=Yopob26XjmL)] Natural gradient enables fast sampling in spiking neural networks
+- [[NeurIPS](https://openreview.net/pdf?id=zdmYnIRXvKS)] Biologically plausible solutions for spiking networks with efficient coding
+- [[NeurIPS](https://openreview.net/pdf?id=Ncyc0JS7Q16)] Toward Robust Spiking Neural Network Against Adversarial Perturbation
+- [[NeurIPS](https://openreview.net/pdf?id=xwBdjfKt7_W)] SNN-RAT: Robustness-enhanced Spiking Neural Network through Regularized Adversarial Training
+- [[NeurIPS](https://openreview.net/pdf?id=xwBdjfKt7_W)] Emergence of Hierarchical Layers in a Single Sheet of Self-Organizing Spiking Neurons
+- [[NeurIPS](https://openreview.net/pdf?id=d4JmP1T45WE)] Training Spiking Neural Networks with Event-driven Backpropagation
+- [[NeurIPS](https://openreview.net/pdf?id=Jw34v_84m2b)] IM-Loss: Information Maximization Loss for Spiking Neural Networks [[code](https://github.com/yfguo91/IM-Loss-Information-Maximization-Loss-for-Spiking-Neural-Networks)]
+- [[NeurIPS](https://openreview.net/pdf?id=ckQvYXizgd1)] The computational and learning benefits of Daleian neural networks
+- [[NeurIPS](https://openreview.net/pdf?id=-yiZR4_Xhh)] Dance of SNN and ANN: Solving binding problem by combining spike timing and reconstructive attention
+- [[NeurIPS](https://openreview.net/pdf?id=3vYkhJIty7E)] Learning Optical Flow from Continuous Spike Streams [[code](https://github.com/ruizhao26/Spike2Flow)]
+- [[NeurIPS](https://openreview.net/pdf?id=iUOUnyS6uTf)] STNDT: Modeling Neural Population Activity with Spatiotemporal Transformers
+
+
+
+
+
+
+
+
+
+
 ## Codes_and_Docs
 
-- [[中文](https://mp.weixin.qq.com/s/RsZCTqCKwpnjATUFC8da7g)] 嵌入式深度学习之神经网络二值化 - FPGA 实现
+- [[中文](https://blog.csdn.net/qq_43622216/article/details/124163883)] 2022年顶会、顶刊SNN相关论文
 
 ## Our_Team
 
