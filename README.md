@@ -63,6 +63,13 @@ The survey paper
 - [[AAAI](https://arxiv.org/pdf/2302.02091.pdf)] Reducing ANN-SNN Conversion Error through Residual Membrane Potential
 - [[AAAI](https://arxiv.org/pdf/2211.14406.pdf)] Exploring Temporal Information Dynamics in Spiking Neural Networks [[code](https://github.com/Intelligent-Computing-Lab-Yale/Exploring-Temporal-Information-Dynamics-in-Spiking-Neural-Networks)]
 - [[AAAI](https://arxiv.org/pdf/2303.06060.pdf)] Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse
+- [[IJCAI](https://arxiv.org/pdf/2211.11760.pdf)] A Low Latency Adaptive Coding Spiking Framework for Deep Reinforcement Learning
+- [[ICASSP](https://arxiv.org/pdf/2302.08607.pdf)] Adaptive Axonal Delays in feedforward spiking neural networks for accurate spoken word recognition
+- [[ICASSP](https://arxiv.org/pdf/2303.12738.pdf)] Joint ANN-SNN Co-training for Object Localization and Image Segmentation
+- [[ICASSP](https://ieeexplore.ieee.org/document/10097174)] Leveraging Sparsity with Spiking Recurrent Neural Networks for Energy-Efficient Keyword Spotting
+- [[ICASSP](https://ieeexplore.ieee.org/document/10096951)] Training Robust Spiking Neural Networks on Neuromorphic Data with Spatiotemporal Fragments
+- [[ICASSP](https://ieeexplore.ieee.org/document/10096958)] Training Stronger Spiking Neural Networks with Biomimetic Adaptive Internal Association Neurons
+- [[ICASSP](https://ieeexplore.ieee.org/document/10094902)] In-Sensor & Neuromorphic Computing Are all You Need for Energy Efficient Computer Vision
 
 
 
