@@ -49,6 +49,8 @@ The survey paper
 
 ### 2023
 
+- [[ACMMM](https://arxiv.org/pdf/2308.04672.pdf)] Resource Constrained Model Compression via Minimax Optimization for Spiking Neural Networks [[code](https://github.com/chenjallen/Resource-Constrained-Compression-on-SNN)]
+- [[ICCV](https://arxiv.org/pdf/2302.14311.pdf)] Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks [[code](https://github.com/qymeng94/SLTT)]
 - [[ICCV](https://arxiv.org/pdf/2307.11411.pdf)] Deep Directly-Trained Spiking Neural Networks for Object Detection [[code](https://github.com/BICLab/EMS-YOLO)]
 - [[ICCV](https://arxiv.org/pdf/2308.08227.pdf)] Inherent Redundancy in Spiking Neural Networks [[code](https://github.com/BICLab/ASA-SNN)]
 - [[ICCV](https://arxiv.org/pdf/2308.06787.pdf)] RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks
@@ -68,6 +70,7 @@ The survey paper
 - [[AAAI](https://arxiv.org/pdf/2211.14406.pdf)] Exploring Temporal Information Dynamics in Spiking Neural Networks [[code](https://github.com/Intelligent-Computing-Lab-Yale/Exploring-Temporal-Information-Dynamics-in-Spiking-Neural-Networks)]
 - [[AAAI](https://arxiv.org/pdf/2303.06060.pdf)] Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse
 - [[IJCAI](https://arxiv.org/pdf/2211.11760.pdf)] A Low Latency Adaptive Coding Spiking Framework for Deep Reinforcement Learning
+- [[IJCAI](https://arxiv.org/pdf/2308.04749.pdf)] Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks
 - [[ICASSP](https://arxiv.org/pdf/2302.08607.pdf)] Adaptive Axonal Delays in feedforward spiking neural networks for accurate spoken word recognition
 - [[ICASSP](https://arxiv.org/pdf/2303.12738.pdf)] Joint ANN-SNN Co-training for Object Localization and Image Segmentation
 - [[ICASSP](https://ieeexplore.ieee.org/document/10097174)] Leveraging Sparsity with Spiking Recurrent Neural Networks for Energy-Efficient Keyword Spotting
