@@ -1,6 +1,6 @@
 # Awesome Spiking Neural Networks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repo collects papers, docs, codes about spiking neural networks for anyone who wants to do research on it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. Special thanks to [Yifu Ding](https://yifu-ding.github.io/#/), [Xudong Ma](https://github.com/Macaronlin), [Yuxuan Wen](https://github.com/ChrisLeff), and all researchers who have contributed to this project!
+This repo collects papers, docs, codes about spiking neural networks for anyone who wants to do research on it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. Special thanks to [Dayong Ren](https://github.com/DayongRen), and all researchers who have contributed to this project!
 
 ## Table of Contents
 
@@ -49,6 +49,20 @@ The survey paper
 
 ### 2023
 
+- [[NeurIPS](https://arxiv.org/pdf/2310.06232.pdf)] Spiking PointNet: Spiking Neural Networks for Point Clouds [[code](https://github.com/DayongRen/Spiking-PointNet)]
+- [[NeurIPS](https://arxiv.org/pdf/2307.01694.pdf)] Spike-driven Transformer [[code](https://github.com/BICLab/Spike-Driven-Transformer)]
+- [[NeurIPS](https://arxiv.org/pdf/2305.17650.pdf)] Evolving Connectivity for Recurrent Spiking Neural Networks
+- [[NeurIPS](https://openreview.net/pdf?id=8IvW2k5VeA)] Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks [[code](https://github.com/zhuyaoyu/SNN-temporal-training-losses)]
+- [[NeurIPS](https://openreview.net/pdf?id=OMDgOjdqoZ)] EICIL: Joint Excitatory Inhibitory Cycle Iteration Learning for Deep Spiking Neural Networks
+- [[NeurIPS](https://openreview.net/forum?id=Ht79ZTVMsn)] Addressing the speed-accuracy simulation trade-off for adaptive spiking neurons
+- [[NeurIPS](https://arxiv.org/pdf/2304.12760.pdf)] Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies [[code](https://github.com/fangwei123456/Parallel-Spiking-Neuron)]
+- [[NeurIPS](https://arxiv.org/pdf/2307.06003.pdf)] Unsupervised Optical Flow Estimation with Dynamic Timing Representation for Spike Camera
+- [[NeurIPS](https://openreview.net/pdf?id=FLFasCFJNo)] Meta-learning families of plasticity rules in recurrent spiking networks using simulation-based inference
+- [[NeurIPS](https://arxiv.org/pdf/2306.12045.pdf)] Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes
+- [[NeurIPS](https://openreview.net/pdf?id=aGZp61S9Lj)] Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks
+- [[NeurIPS](https://arxiv.org/pdf/2306.03603.pdf)] Trial matching: capturing variability with data-constrained spiking neural networks
+- [[NeurIPS](https://openreview.net/pdf?id=yzZbwQPkmP)] SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks
+- [[NeurIPS](https://arxiv.org/pdf/2306.03603.pdf)] SEENN: Towards Temporal Spiking Early-Exit Neural Networks [[code](https://github.com/Intelligent-Computing-Lab-Yale/SEENN)]
 - [[ACMMM](https://arxiv.org/pdf/2308.04672.pdf)] Resource Constrained Model Compression via Minimax Optimization for Spiking Neural Networks [[code](https://github.com/chenjallen/Resource-Constrained-Compression-on-SNN)]
 - [[ICCV](https://arxiv.org/pdf/2302.14311.pdf)] Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks [[code](https://github.com/qymeng94/SLTT)]
 - [[ICCV](https://arxiv.org/pdf/2307.11411.pdf)] Deep Directly-Trained Spiking Neural Networks for Object Detection [[code](https://github.com/BICLab/EMS-YOLO)]
