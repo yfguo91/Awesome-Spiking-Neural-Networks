@@ -4,18 +4,21 @@ This repo collects papers, docs, codes about spiking neural networks for anyone 
 
 ## Table of Contents
 
-- [Awesome Spiking Neural Networks ](#awesome-spiking-neural-networks-)
-  - [Table of Contents](#table-of-contents)
-  - [Survey\_Papers](#survey_papers)
-    - [Survey\_of\_Direct\_Training\_Method](#survey_of_direct_training_method)
-    - [Survey\_of\_ANN-SNN](#survey_of_ann-snn)
-  - [Papers](#papers)
-    - [2023](#2023)
-    - [2022](#2022)
-  - [Codes\_and\_Docs](#codes_and_docs)
-  - [Our\_Team](#our_team)
-    - [Publications](#publications)
-
+- [Survey Papers](#Survey_Papers)
+  - [Survey_of_Direct_Training_Method](#Survey_of_Direct_Training_Method)
+  - [Survey_of_ANN-SNN](#Survey_of_ANN-SNN)
+- [Papers](#Papers)
+  - [2023](#2023)
+  - [2022](#2022)
+  - [2021](#2021)
+  - [2020](#2020)
+  - [2019](#2019)
+  - [2018](#2018)
+  - [2017](#2017)
+  - [2016](#2016)
+  - [2015](#2015)
+- [Codes and Docs](#Codes_and_Docs)
+- [Our Team](#Our_Team)
 ## Survey_Papers
 
 ### Survey_of_Direct_Training_Method
