@@ -150,9 +150,17 @@ The survey paper
 - [[ICLR](https://openreview.net/pdf?id=_XNtisL32jv)] Temporal Efficient Training of Spiking Neural Network via Gradient Re-weighting [[code](https://github.com/brain-intelligence-lab/temporal_efficient_training)]  
 
 
+### 2021
 
-
-
+- [[NeurIPS](https://openreview.net/pdf?id=f2Llmm_z5Sm)] Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State
+- [[NeurIPS](https://openreview.net/pdf?id=9DEAT9pDiN)] Fitting summary statistics of neural data with a differentiable spiking network simulator
+- [[NeurIPS](https://openreview.net/pdf?id=aLE2sEtMNXv)] Sparse Spiking Gradient Descent
+- [[NeurIPS](https://openreview.net/pdf?id=H4e7mBnC9f0)] Differentiable Spike: Rethinking Gradient-Descent for Training Spiking Neural Networks
+- [[NeurIPS](https://openreview.net/pdf?id=MySjw6CHPa4)] Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks
+- [[NeurIPS](https://openreview.net/pdf?id=6OoCDvFV4m)] Deep Residual Learning in Spiking Neural Networks
+- [[NeurIPS](https://openreview.net/pdf?id=Fw0IQgaGlhh)] Learning to Time-Decode in Spiking Neural Networks Through the Information Bottleneck
+- [[ICLR](https://openreview.net/pdf?id=FZ1oTwcXchK)] Optimal Conversion of Conventional Artificial Neural Networks to Spiking Neural Networks
+- [[ICLR](https://openreview.net/pdf?id=aGfU_xziEX8)] Efficient Inference of Flexible Interaction in Spiking-neuron Networks
 
 ## Codes_and_Docs
 
