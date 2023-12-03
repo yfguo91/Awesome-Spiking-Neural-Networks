@@ -1,6 +1,6 @@
 # Awesome Spiking Neural Networks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repo collects papers, docs, codes about spiking neural networks for anyone who wants to do research on it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. Special thanks to [Dayong Ren](https://github.com/DayongRen), and all researchers who have contributed to this project!
+This repo collects papers, docs, codes about spiking neural networks for anyone who wants to do research on it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. Special thanks to [Dayong Ren](https://github.com/DayongRen), [Qianpeng Li](https://github.com/QianpengLi577), and all researchers who have contributed to this project!
 
 ## Table of Contents
 
