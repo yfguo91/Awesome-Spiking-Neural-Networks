@@ -69,7 +69,7 @@ The survey paper
 - [[ICCV](https://arxiv.org/pdf/2308.08227.pdf)] Inherent Redundancy in Spiking Neural Networks [[code](https://github.com/BICLab/ASA-SNN)]
 - [[ICCV](https://arxiv.org/pdf/2308.06787.pdf)] RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks
 - [[ICCV](https://arxiv.org/pdf/2308.08359.pdf)] Membrane Potential Batch Normalization for Spiking Neural Networks [[code](https://github.com/yfguo91/MPBN)]
-- [[ICCV](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.html)] Masked Spiking Transformer [[code](https://github.com/yfguo91/MPBN)]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.html)] Masked Spiking Transformer [[code](https://github.com/bic-L/Masked-Spiking-Transformer)]
 - [[ICML](https://openreview.net/pdf?id=GdkwSGTpbC)] Adaptive Smoothing Gradient Learning for Spiking Neural Networks
 - [[ICML](https://openreview.net/pdf?id=zRkz4duLKp)] Surrogate Module Learning: Reduce the Gradient Error Accumulation in Training Spiking Neural Networks [[code](https://github.com/brain-intelligence-lab/surrogate_module_learning)]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Bu_Rate_Gradient_Approximation_Attack_Threats_Deep_Spiking_Neural_Networks_CVPR_2023_paper.pdf)] Rate Gradient Approximation Attack Threats Deep Spiking Neural Networks [[code](https://github.com/putshua/SNN_attack_RGA)]
