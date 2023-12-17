@@ -8,6 +8,7 @@ This repo collects papers, docs, codes about spiking neural networks for anyone 
   - [Survey_of_Direct_Training_Method](#Survey_of_Direct_Training_Method)
   - [Survey_of_ANN-SNN](#Survey_of_ANN-SNN)
 - [Papers](#Papers)
+  - [2024](#2024)
   - [2023](#2023)
   - [2022](#2022)
   - [2021](#2021)
@@ -46,6 +47,12 @@ Our survey paper **Direct Learning-Based Deep Spiking Neural Networks: A Review*
 The survey paper 
 
 ## Papers
+
+### 2024
+
+- [[AAAI](https://arxiv.org/pdf/2312.06372.pdf)] Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks [[code](https://github.com/yfguo91/Ternary-Spike)]
+- [[AAAI](https://arxiv.org/pdf/2312.07922.pdf)] Memory-Efficient Reversible Spiking Neural Networks [[code](https://github.com/mi804/RevSNN)]
+- [[AAAI](https://arxiv.org/pdf/2308.06582.pdf)] Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks [[code](https://github.com/bollossom/GAC)]
 
 ### 2023
 
