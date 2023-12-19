@@ -77,7 +77,7 @@ The survey paper
 - [[ICCV](https://arxiv.org/pdf/2308.06787.pdf)] RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks
 - [[ICCV](https://arxiv.org/pdf/2308.08359.pdf)] Membrane Potential Batch Normalization for Spiking Neural Networks [[code](https://github.com/yfguo91/MPBN)]
 - [[ICCV](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.html)] Masked Spiking Transformer [[code](https://github.com/bic-L/Masked-Spiking-Transformer)]
-- [[ICML](https://openreview.net/pdf?id=GdkwSGTpbC)] Adaptive Smoothing Gradient Learning for Spiking Neural Networks
+- [[ICML](https://openreview.net/pdf?id=GdkwSGTpbC)] Adaptive Smoothing Gradient Learning for Spiking Neural Networks [[code](https://github.com/Windere/ASGL-SNN)]
 - [[ICML](https://openreview.net/pdf?id=zRkz4duLKp)] Surrogate Module Learning: Reduce the Gradient Error Accumulation in Training Spiking Neural Networks [[code](https://github.com/brain-intelligence-lab/surrogate_module_learning)]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Bu_Rate_Gradient_Approximation_Attack_Threats_Deep_Spiking_Neural_Networks_CVPR_2023_paper.pdf)] Rate Gradient Approximation Attack Threats Deep Spiking Neural Networks [[code](https://github.com/putshua/SNN_attack_RGA)]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_1000_FPS_HDR_Video_With_a_Spike-RGB_Hybrid_Camera_CVPR_2023_paper.pdf)] 1000 FPS HDR Video with a Spike-RGB Hybrid Camera
@@ -85,12 +85,12 @@ The survey paper
 - [[ICLR](https://arxiv.org/pdf/2302.10685.pdf)] Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes [[code](https://github.com/hzc1208/ANN2SNN_COS)]
 - [[ICLR](https://arxiv.org/pdf/2302.13019.pdf)] A Unified Framework for Soft Threshold Pruning [[code](https://github.com/Yanqi-Chen/LATS)]
 - [[ICLR](https://openreview.net/pdf?id=QIRtAqoXwj)] Heterogeneous Neuronal and Synaptic Dynamics for Spike-Efficient Unsupervised Learning: Theory and Design Principles
-- [[ICLR](https://openreview.net/pdf?id=pgU3k7QXuz0)] Spiking Convolutional Neural Networks for Text Classification
+- [[ICLR](https://openreview.net/pdf?id=pgU3k7QXuz0)] Spiking Convolutional Neural Networks for Text Classification [[code](https://github.com/Lvchangze/snn)]
 - [[ICLR](https://openreview.net/pdf?id=frE4fUwz_h)] Spikformer: When Spiking Neural Network Meets Transformer [[code](https://github.com/ZK-Zhou/spikformer)]
 - [[PR](https://arxiv.org/pdf/2305.02099.pdf)] Joint A-SNN: Joint Training of Artificial and Spiking Neural Networks via Self-Distillation and Weight Factorization [[code](https://github.com/yfguo91/Joint-A-SNN)]
 - [[AAAI](https://arxiv.org/pdf/2302.02091.pdf)] Reducing ANN-SNN Conversion Error through Residual Membrane Potential [[code](https://github.com/hzc1208/ANN2SNN_SRP)]
 - [[AAAI](https://arxiv.org/pdf/2211.14406.pdf)] Exploring Temporal Information Dynamics in Spiking Neural Networks [[code](https://github.com/Intelligent-Computing-Lab-Yale/Exploring-Temporal-Information-Dynamics-in-Spiking-Neural-Networks)]
-- [[AAAI](https://arxiv.org/pdf/2303.06060.pdf)] Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse
+- [[AAAI](https://arxiv.org/pdf/2303.06060.pdf)] Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse [[code](https://github.com/Grasshlw/SNN-Neural-Similarity-Static)]
 - [[IJCAI](https://arxiv.org/pdf/2211.11760.pdf)] A Low Latency Adaptive Coding Spiking Framework for Deep Reinforcement Learning
 - [[IJCAI](https://arxiv.org/pdf/2308.04749.pdf)] Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks [[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/Structural_Development/DSD-SNN)]
 - [[ICASSP](https://arxiv.org/pdf/2302.08607.pdf)] Adaptive Axonal Delays in feedforward spiking neural networks for accurate spoken word recognition
@@ -109,9 +109,9 @@ The survey paper
 - [[NeurIPS](https://arxiv.org/pdf/2206.04426.pdf)] Biologically Inspired Dynamic Thresholds for Spiking Neural Networks
 - [[NeurIPS](https://arxiv.org/pdf/2210.04195.pdf)] Online Training Through Time for Spiking Neural Networks [[code](https://github.com/pkuxmq/OTTT-SNN)]
 - [[NeurIPS](https://arxiv.org/pdf/2205.13493.pdf)] Mesoscopic modeling of hidden spiking neurons
-- [[NeurIPS](https://openreview.net/pdf?id=fLIgyyQiJqz)] Temporal Effective Batch Normalization in Spiking Neural Networks
-- [[NeurIPS](https://openreview.net/pdf?id=Lr2Z85cdvB)] Differentiable hierarchical and surrogate gradient search for spiking neural networks 
-- [[NeurIPS](https://openreview.net/pdf?id=BbaSRgUHW3)] LTMD: Learning Improvement of Spiking Neural Networks with Learnable Thresholding Neurons and Moderate Dropout
+- [[NeurIPS](https://openreview.net/pdf?id=fLIgyyQiJqz)] Temporal Effective Batch Normalization in Spiking Neural Networks [[code](https://openreview.net/attachment?id=fLIgyyQiJqz&name=supplementary_material)]
+- [[NeurIPS](https://openreview.net/pdf?id=Lr2Z85cdvB)] Differentiable hierarchical and surrogate gradient search for spiking neural networks [[code](https://github.com/Huawei-BIC/SpikeDHS)]
+- [[NeurIPS](https://openreview.net/pdf?id=BbaSRgUHW3)] LTMD: Learning Improvement of Spiking Neural Networks with Learnable Thresholding Neurons and Moderate Dropout [[code](https://github.com/sq117/LTMD)]
 - [[NeurIPS](https://openreview.net/pdf?id=I0CiI7Oyp1E)] Theoretically Provable Spiking Neural Networks
 - [[NeurIPS](https://openreview.net/pdf?id=Yopob26XjmL)] Natural gradient enables fast sampling in spiking neural networks
 - [[NeurIPS](https://openreview.net/pdf?id=zdmYnIRXvKS)] Biologically plausible solutions for spiking networks with efficient coding
