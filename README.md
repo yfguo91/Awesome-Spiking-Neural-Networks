@@ -53,6 +53,18 @@ The survey paper
 - [[AAAI](https://arxiv.org/pdf/2312.06372.pdf)] Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks [[code](https://github.com/yfguo91/Ternary-Spike)]
 - [[AAAI](https://arxiv.org/pdf/2312.07922.pdf)] Memory-Efficient Reversible Spiking Neural Networks [[code](https://github.com/mi804/RevSNN)]
 - [[AAAI](https://arxiv.org/pdf/2308.06582.pdf)] Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks [[code](https://github.com/bollossom/GAC)]
+- [[AAAI](https://arxiv.org/pdf/2308.10873.pdf)] SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation [[code](https://github.com/NeuroCompLab-psu/SpikingBERT)]
+- [[AAAI](https://arxiv.org/pdf/2308.13250.pdf)] TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling [[code](https://github.com/zhangshimin1/tc-lif)]
+- [[AAAI](https://arxiv.org/pdf/2311.09077.pdf)] Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation [[code](https://github.com/liaozhanfeng/Spiking-NeRF)]
+- [[AAAI - no paper link]()] Dynamic Reactive Spiking Graph Neural Network
+- [[AAAI - no paper link]()] An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain
+- [[AAAI - no paper link]()] Enhancing Representation of Spiking Neural Networks via Similarity-Sensitive Contrastive Learning
+- [[AAAI - no paper link]()] Efficient Spiking Neural Networks with Sparse Selective Activation for Continual Learning
+- [[AAAI - no paper link]()] Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Networks
+- [[AAAI - no paper link]()] Enhancing Training of Spiking Neural Network with Stochastic Latency
+- [[AAAI - no paper link]()] Enhancing the robustness of spiking neural networks with stochastic gating mechanisms
+- [[AAAI - no paper link]()] Dynamic Spiking Graph Neural Networks
+
 
 ### 2023
 
