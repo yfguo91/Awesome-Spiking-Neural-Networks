@@ -56,9 +56,9 @@ The survey paper
 - [[AAAI](https://arxiv.org/pdf/2308.10873.pdf)] SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation [[code](https://github.com/NeuroCompLab-psu/SpikingBERT)]
 - [[AAAI](https://arxiv.org/pdf/2308.13250.pdf)] TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling [[code](https://github.com/zhangshimin1/tc-lif)]
 - [[AAAI](https://arxiv.org/pdf/2311.09077.pdf)] Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation [[code](https://github.com/liaozhanfeng/Spiking-NeRF)]
+- [[AAAI](https://arxiv.org/abs/2303.13077)] An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain [[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/Perception_and_Learning/img_cls/transfer_for_dvs)]
 - [[AAAI](https://arxiv.org/pdf/2401.01912.pdf)] Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Networks
 - [[AAAI - no paper link]()] Dynamic Reactive Spiking Graph Neural Network
-- [[AAAI - no paper link]()] An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain
 - [[AAAI - no paper link]()] Enhancing Representation of Spiking Neural Networks via Similarity-Sensitive Contrastive Learning
 - [[AAAI - no paper link]()] Efficient Spiking Neural Networks with Sparse Selective Activation for Continual Learning
 - [[AAAI - no paper link]()] Enhancing Training of Spiking Neural Network with Stochastic Latency
