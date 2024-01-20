@@ -64,6 +64,9 @@ The survey paper
 - [[AAAI - no paper link]()] Efficient Spiking Neural Networks with Sparse Selective Activation for Continual Learning
 - [[AAAI - no paper link]()] Enhancing Training of Spiking Neural Network with Stochastic Latency
 - [[AAAI - no paper link]()] Enhancing the robustness of spiking neural networks with stochastic gating mechanisms
+- [[ICLR](https://openreview.net/forum?id=eoSeaK4QJo)] Towards Energy Efficient Spiking Neural Networks: An Unstructured Pruning Framework
+- [[ICLR](https://openreview.net/forum?id=CIj1CVbkpr)] Online Stabilization of Spiking Neural Networks
+- [[ICLR](https://openreview.net/forum?id=7etoNfU9uF)] SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition
 
 
 ### 2023
