@@ -67,6 +67,20 @@ The survey paper
 - [[ICLR](https://openreview.net/forum?id=eoSeaK4QJo)] Towards Energy Efficient Spiking Neural Networks: An Unstructured Pruning Framework
 - [[ICLR](https://openreview.net/forum?id=CIj1CVbkpr)] Online Stabilization of Spiking Neural Networks
 - [[ICLR](https://openreview.net/forum?id=7etoNfU9uF)] SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition
+- [[ICLR](https://openreview.net/forum?id=XrunSYwoLr)] Spatio-Temporal Approximation: A Training-Free SNN Conversion for Transformers
+- [[ICLR](https://openreview.net/forum?id=0jsfesDZDq)] Sparse Spiking Neural Network: Exploiting Heterogeneity in Timescales for Pruning Recurrent SNN
+- [[ICLR](https://openreview.net/forum?id=4r2ybzJnmN&noteId=YHNDSBss1E)] Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings
+- [[ICLR](https://openreview.net/forum?id=xv8iGxENyI)] Threaten Spiking Neural Networks through Combining Rate and Temporal Information
+- [[ICLR](https://openreview.net/forum?id=k1wlmtPGLq&noteId=p5M9gOLAOf)] TAB: Temporal Accumulated Batch Normalization in Spiking Neural Networks
+- [[ICLR](https://openreview.net/forum?id=5bNYf0CqxY)] Certified Adversarial Robustness for Rate Encoded Spiking Neural Networks
+- [[ICLR](https://openreview.net/forum?id=ZYm1Ql6udy)] Bayesian Bi-clustering of Neural Spiking Activity with Latent Structures
+- [[ICLR](https://openreview.net/forum?id=wpnlc2ONu0)] Adaptive deep spiking neural network with global-local learning via balanced excitatory and inhibitory mechanism
+- [[ICLR](https://openreview.net/forum?id=MeB86edZ1P)] Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks
+- [[ICLR](https://openreview.net/forum?id=g52tgL8jy6)] A Progressive Training Framework for Spiking Neural Networks with Learnable Multi-hierarchical Model
+- [[ICLR](https://openreview.net/forum?id=oEF7qExD9F)] LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units
+- [[ICLR](https://openreview.net/forum?id=1SIBN5Xyw7)] Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips
+- [[ICLR](https://openreview.net/forum?id=lGUyAuuTYZ)] Bridging the Gap between Binary Neural Networks and Spiking Neural Networks for Efficient Computer Vision
+- [[ICLR](https://openreview.net/forum?id=LnLySuf1vp)] A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks
 
 
 ### 2023
