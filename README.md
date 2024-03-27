@@ -59,7 +59,7 @@ The survey paper
 - [[AAAI](https://arxiv.org/abs/2303.13077)] An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain [[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/Perception_and_Learning/img_cls/transfer_for_dvs)]
 - [[AAAI](https://arxiv.org/pdf/2401.01912.pdf)] Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Networks
 - [[AAAI](https://arxiv.org/pdf/2401.05373.pdf)] Dynamic Spiking Graph Neural Networks
-- [[AAAI - no paper link]()] Dynamic Reactive Spiking Graph Neural Network
+- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29587)] Dynamic Reactive Spiking Graph Neural Network
 - [[AAAI - no paper link]()] Enhancing Representation of Spiking Neural Networks via Similarity-Sensitive Contrastive Learning
 - [[AAAI - no paper link]()] Efficient Spiking Neural Networks with Sparse Selective Activation for Continual Learning
 - [[AAAI - no paper link]()] Enhancing Training of Spiking Neural Network with Stochastic Latency
