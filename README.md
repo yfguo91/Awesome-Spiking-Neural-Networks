@@ -50,35 +50,37 @@ The survey paper
 
 ### 2024
 
-- [[AAAI](https://arxiv.org/pdf/2312.06372.pdf)] Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks [[code](https://github.com/yfguo91/Ternary-Spike)]
-- [[AAAI](https://arxiv.org/pdf/2312.07922.pdf)] Memory-Efficient Reversible Spiking Neural Networks [[code](https://github.com/mi804/RevSNN)]
-- [[AAAI](https://arxiv.org/pdf/2308.06582.pdf)] Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks [[code](https://github.com/bollossom/GAC)]
-- [[AAAI](https://arxiv.org/pdf/2308.10873.pdf)] SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation [[code](https://github.com/NeuroCompLab-psu/SpikingBERT)]
-- [[AAAI](https://arxiv.org/pdf/2308.13250.pdf)] TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling [[code](https://github.com/zhangshimin1/tc-lif)]
-- [[AAAI](https://arxiv.org/pdf/2311.09077.pdf)] Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation [[code](https://github.com/liaozhanfeng/Spiking-NeRF)]
-- [[AAAI](https://arxiv.org/abs/2303.13077)] An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain [[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/Perception_and_Learning/img_cls/transfer_for_dvs)]
-- [[AAAI](https://arxiv.org/pdf/2401.01912.pdf)] Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Networks
-- [[AAAI](https://arxiv.org/pdf/2401.05373.pdf)] Dynamic Spiking Graph Neural Networks
-- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29640)] Dynamic Reactive Spiking Graph Neural Network
+- [[CVPR](https://arxiv.org/pdf/2403.14302.pdf)] SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks [[code](https://github.com/xyshi2000/SpikingResformer)]
+- [[CVPR](https://arxiv.org/pdf/2311.10802.pdf)] Are Conventional SNNs Really Efficient? A Perspective from Network Quantization 
+- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29114)] Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks [[code](https://github.com/yfguo91/Ternary-Spike)]
+- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29616)] Memory-Efficient Reversible Spiking Neural Networks [[code](https://github.com/mi804/RevSNN)]
+- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/27816)] Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks [[code](https://github.com/bollossom/GAC)]
+- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28975)] SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation [[code](https://github.com/NeuroCompLab-psu/SpikingBERT)]
+- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29625)] TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling [[code](https://github.com/zhangshimin1/tc-lif)]
+- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29285)] Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation [[code](https://github.com/liaozhanfeng/Spiking-NeRF)]
+- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/27806)] An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain [[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/Perception_and_Learning/img_cls/transfer_for_dvs)]
+- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29066)] Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Networks
+- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29587)] Dynamic Spiking Graph Neural Networks
+- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29640)] Dynamic Reactive Spiking Graph Neural Network [[code](https://github.com/hzhao98/DRSGNN)]
 - [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29635)] Enhancing Representation of Spiking Neural Networks via Similarity-Sensitive Contrastive Learning
-- [[AAAI - no paper link]()] Efficient Spiking Neural Networks with Sparse Selective Activation for Continual Learning
-- [[AAAI - no paper link]()] Enhancing Training of Spiking Neural Network with Stochastic Latency
-- [[AAAI - no paper link]()] Enhancing the robustness of spiking neural networks with stochastic gating mechanisms
-- [[ICLR](https://openreview.net/forum?id=eoSeaK4QJo)] Towards Energy Efficient Spiking Neural Networks: An Unstructured Pruning Framework
+- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/27817)] Efficient Spiking Neural Networks with Sparse Selective Activation for Continual Learning
+- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28964)] Enhancing Training of Spiking Neural Network with Stochastic Latency [[code](https://github.com/srinuvaasu/SLT)]
+- [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/27804)] Enhancing the robustness of spiking neural networks with stochastic gating mechanisms [[code](https://github.com/DingJianhao/StoG-meets-SNN/)]
+- [[ICLR](https://openreview.net/forum?id=eoSeaK4QJo)] Towards Energy Efficient Spiking Neural Networks: An Unstructured Pruning Framework [[code](https://github.com/xyshi2000/Unstructured-Pruning)]
 - [[ICLR](https://openreview.net/forum?id=CIj1CVbkpr)] Online Stabilization of Spiking Neural Networks
 - [[ICLR](https://openreview.net/forum?id=7etoNfU9uF)] SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition
 - [[ICLR](https://openreview.net/forum?id=XrunSYwoLr)] Spatio-Temporal Approximation: A Training-Free SNN Conversion for Transformers
 - [[ICLR](https://openreview.net/forum?id=0jsfesDZDq)] Sparse Spiking Neural Network: Exploiting Heterogeneity in Timescales for Pruning Recurrent SNN
-- [[ICLR](https://openreview.net/forum?id=4r2ybzJnmN&noteId=YHNDSBss1E)] Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings
+- [[ICLR](https://openreview.net/forum?id=4r2ybzJnmN)] Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings
 - [[ICLR](https://openreview.net/forum?id=xv8iGxENyI)] Threaten Spiking Neural Networks through Combining Rate and Temporal Information
-- [[ICLR](https://openreview.net/forum?id=k1wlmtPGLq&noteId=p5M9gOLAOf)] TAB: Temporal Accumulated Batch Normalization in Spiking Neural Networks
+- [[ICLR](https://openreview.net/forum?id=k1wlmtPGLq)] TAB: Temporal Accumulated Batch Normalization in Spiking Neural Networks
 - [[ICLR](https://openreview.net/forum?id=5bNYf0CqxY)] Certified Adversarial Robustness for Rate Encoded Spiking Neural Networks
 - [[ICLR](https://openreview.net/forum?id=ZYm1Ql6udy)] Bayesian Bi-clustering of Neural Spiking Activity with Latent Structures
 - [[ICLR](https://openreview.net/forum?id=wpnlc2ONu0)] Adaptive deep spiking neural network with global-local learning via balanced excitatory and inhibitory mechanism
 - [[ICLR](https://openreview.net/forum?id=MeB86edZ1P)] Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks
 - [[ICLR](https://openreview.net/forum?id=g52tgL8jy6)] A Progressive Training Framework for Spiking Neural Networks with Learnable Multi-hierarchical Model
 - [[ICLR](https://openreview.net/forum?id=oEF7qExD9F)] LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units
-- [[ICLR](https://openreview.net/forum?id=1SIBN5Xyw7)] Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips
+- [[ICLR](https://openreview.net/forum?id=1SIBN5Xyw7)] Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips [[code](https://github.com/BICLab/Spike-Driven-Transformer-V2)]
 - [[ICLR](https://openreview.net/forum?id=lGUyAuuTYZ)] Bridging the Gap between Binary Neural Networks and Spiking Neural Networks for Efficient Computer Vision
 - [[ICLR](https://openreview.net/forum?id=LnLySuf1vp)] A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks
 
