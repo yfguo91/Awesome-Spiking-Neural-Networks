@@ -49,7 +49,19 @@ The survey paper
 ## Papers
 
 ### 2024
-
+- [[ICML](https://icml.cc/virtual/2024/poster/35073)] Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning
+- [[ICML](https://icml.cc/virtual/2024/poster/33505)] Towards efficient deep spiking neural networks construction with spiking activity based pruning
+- [[ICML](https://arxiv.org/abs/2402.01533)] Efficient and Effective Time-Series Forecasting with Spiking Neural Networks
+- [[ICML](https://icml.cc/virtual/2024/poster/33269)] Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks
+- [[ICML](https://icml.cc/virtual/2024/poster/33217)] Robust Stable Spiking Neural Networks
+- [[ICML](https://arxiv.org/abs/2402.04663)] CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks [[code](https://github.com/HuuYuLong/Complementary-LIF)]
+- [[ICML](https://icml.cc/virtual/2024/poster/33481)] NDOT: Neuronal Dynamics-based Online Training for Spiking Neural Networks
+- [[ICML](https://icml.cc/virtual/2024/poster/32927)] High-Performance Temporal Reversible Spiking Neural Networks with $\mathcal{O}(L)$ Training Memory and $\mathcal{O}(1)$ Inference Cost
+- [[ICML](https://icml.cc/virtual/2024/poster/32674)] Towards Efficient Spiking Transformer: a Token Sparsification Framework for Training and Inference Acceleration
+- [[ICML](https://icml.cc/virtual/2024/poster/35024)] SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms
+- [[ICML](https://icml.cc/virtual/2024/poster/33242)] Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN Conversion Beyond ReLU Network
+- [[ICML](https://icml.cc/virtual/2024/poster/34066)] Enhancing Adversarial Robustness in SNNs with Sparse Gradients
+- [[ICML](https://icml.cc/virtual/2024/poster/34194)] SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN
 - [[CVPR](https://arxiv.org/pdf/2403.14302.pdf)] SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks [[code](https://github.com/xyshi2000/SpikingResformer)]
 - [[CVPR](https://arxiv.org/pdf/2311.10802.pdf)] Are Conventional SNNs Really Efficient? A Perspective from Network Quantization 
 - [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29114)] Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks [[code](https://github.com/yfguo91/Ternary-Spike)]
