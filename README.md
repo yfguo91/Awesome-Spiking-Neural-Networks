@@ -49,6 +49,12 @@ The survey paper
 ## Papers
 
 ### 2024
+- [[IJCAI]()] Apprenticeship-Inspired Elegance: Synergistic Knowledge Distillation Empowers Spiking Neural Networks for Efficient Single-Eye Emotion Recognition
+- [[IJCAI]()] One-step Spiking Transformer with a Linear Complexity
+- [[IJCAI](https://arxiv.org/abs/2401.11687)] TIM: An Efficient Temporal Interaction Module for Spiking Transformer
+- [[IJCAI]()] Learning a Spiking Neural Network for Efficient Image Deraining
+- [[IJCAI](https://arxiv.org/abs/2401.14652)] LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization
+- [[IJCAI]()] EC-SNN: Splitting Deep Spiking Neural Networks for Edge Devices [[code](https://github.com/AmazingDD/EC-SNN)]
 - [[ICML](https://icml.cc/virtual/2024/poster/35073)] Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning
 - [[ICML](https://icml.cc/virtual/2024/poster/33505)] Towards efficient deep spiking neural networks construction with spiking activity based pruning
 - [[ICML](https://arxiv.org/abs/2402.01533)] Efficient and Effective Time-Series Forecasting with Spiking Neural Networks
