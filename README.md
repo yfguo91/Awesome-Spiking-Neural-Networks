@@ -8,6 +8,7 @@ This repo collects papers, docs, codes about spiking neural networks for anyone 
   - [Survey_of_Direct_Training_Method](#Survey_of_Direct_Training_Method)
   - [Survey_of_ANN-SNN](#Survey_of_ANN-SNN)
 - [Papers](#Papers)
+  - [2025](#2025)
   - [2024](#2024)
   - [2023](#2023)
   - [2022](#2022)
@@ -47,6 +48,15 @@ Our survey paper **Direct Learning-Based Deep Spiking Neural Networks: A Review*
 The survey paper 
 
 ## Papers
+
+### 2025
+- [[AAAI](https://arxiv.org/pdf/2412.07360)] Efficient 3D Recognition with Event-driven Spike Sparse Convolution [[code](https://github.com/bollossom/E-3DSNN/)]
+- [[AAAI](https://arxiv.org/pdf/2412.14587)] Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation [[code](https://github.com/BICLab/Spike2Former)]
+- [[AAAI](https://arxiv.org/pdf/2412.12525)] CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics [[code](https://github.com/shen-aoyu/CREST/)]
+- [[AAAI](https://arxiv.org/pdf/2501.14744)] FSTA-SNN:Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks [[code](https://github.com/yukairong/FSTA-SNN)]
+- [[AAAI](https://arxiv.org/pdf/2412.16219)] Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Network [[code](https://github.com/bic-L/burst-ann2snn)]
+
+
 
 ### 2024
 - [[IJCAI]()] Apprenticeship-Inspired Elegance: Synergistic Knowledge Distillation Empowers Spiking Neural Networks for Efficient Single-Eye Emotion Recognition
