@@ -63,7 +63,7 @@ The survey paper
 - [[ICLR](https://openreview.net/pdf?id=MiPyle6Jef)] QP-SNN: Quantized and Pruned Spiking Neural Networks
 - [[ICLR](https://openreview.net/pdf?id=gcouwCx7dG)] Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency
 - [[ICLR](https://openreview.net/pdf?id=qzZsz6MuEq)] Spiking Vision Transformer with Saccadic Attention
-- [[ICLR](https://openreview.net/pdf?id=gcouwCx7dG)] Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency
+
 
 
 
