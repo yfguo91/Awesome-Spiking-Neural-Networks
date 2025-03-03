@@ -55,6 +55,15 @@ The survey paper
 - [[AAAI](https://arxiv.org/pdf/2412.12525)] CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics [[code](https://github.com/shen-aoyu/CREST/)]
 - [[AAAI](https://arxiv.org/pdf/2501.14744)] FSTA-SNN:Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks [[code](https://github.com/yukairong/FSTA-SNN)]
 - [[AAAI](https://arxiv.org/pdf/2412.16219)] Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Network [[code](https://github.com/bic-L/burst-ann2snn)]
+- [[AAAI](https://arxiv.org/pdf/2502.14344)] Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism
+- [[AAAI](https://arxiv.org/pdf/2502.15811)] Spiking Point Transformer for Point Cloud Classification [[code](https://github.com/PeppaWu/SPT)]
+- [[ICLR](https://openreview.net/pdf?id=ZyknpOQwkT)] Rethinking Spiking Neural Networks from an Ensemble Learning Perspective
+- [[ICLR](https://openreview.net/pdf?id=5J9B7Sb8rO)] Quantized Spike-driven Transformer [[code](https://github.com/bollossom/QSD-Transformer)]
+- [[ICLR](https://openreview.net/pdf?id=drPDukdY3t)] DeepTAGE: Deep Temporal-Aligned Gradient Enhancement for Optimizing Spiking Neural Networks
+- [[ICLR](https://openreview.net/pdf?id=MiPyle6Jef)] QP-SNN: Quantized and Pruned Spiking Neural Networks
+- [[ICLR](https://openreview.net/pdf?id=gcouwCx7dG)] Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency
+- [[ICLR](https://openreview.net/pdf?id=qzZsz6MuEq)] Spiking Vision Transformer with Saccadic Attention
+- [[ICLR](https://openreview.net/pdf?id=gcouwCx7dG)] Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency
 
 
 
