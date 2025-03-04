@@ -68,12 +68,30 @@ The survey paper
 
 
 ### 2024
-- [[IJCAI]()] Apprenticeship-Inspired Elegance: Synergistic Knowledge Distillation Empowers Spiking Neural Networks for Efficient Single-Eye Emotion Recognition
-- [[IJCAI]()] One-step Spiking Transformer with a Linear Complexity
+- [[ECCV](https://arxiv.org/pdf/2407.20708)] Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection [[code](https://github.com/BICLab/SpikeYOLO)]
+- [[ECCV](https://arxiv.org/pdf/2403.11138)] Spiking Wavelet Transformer [[code](https://github.com/bic-L/Spiking-Wavelet-Transformer)]
+- [[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-72946-1_10)] Spike-Temporal Latent Representation for Energy-Efficient Event-to-Video Reconstruction
+- [[ECCV](https://arxiv.org/pdf/2403.18388)] FTBC: Forward Temporal Bias Correction for Optimizing ANN-SNN Conversion
+- [[ECCV](https://arxiv.org/pdf/2407.09083v2)] BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation [[code](https://github.com/Intelligent-Computing-Research-Group/BKDSNN)]
+- [[ACM MM](https://openreview.net/pdf?id=Hs2lECzJi9)] Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks
+- [[ACM MM](https://openreview.net/pdf?id=DdPe5ZLO11)] Q-SNNs: Quantized Spiking Neural Networks
+- [[ACM MM](https://openreview.net/pdf?id=FFIh7vYgyx)] RSNN: Recurrent Spiking Neural Networks for Dynamic Spatial-Temporal Information Processing
+- [[ACM MM](https://openreview.net/pdf?id=FFIh7vYgyx)] Towards High-performance Spiking Transformers from ANN to SNN Conversion
+- [[ACM MM](https://openreview.net/pdf?id=rLG6KQMs42)] RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding [[code](https://github.com/KemingWu/RSC-SNN)]
+- [[ACM MM](https://openreview.net/pdf?id=r9X3P6qvAj)] Reversing Structural Pattern Learning with Biologically Inspired Knowledge Distillation for Spiking Neural Networks
+- [[ACM MM](https://openreview.net/pdf?id=y4kdAruRWT)] PSSD-Transformer: Powerful Sparse Spike-Driven Transformer for Image Semantic Segmentation
+
+
+
+
+
+
+- [[IJCAI](https://arxiv.org/pdf/2407.09521)] Apprenticeship-Inspired Elegance: Synergistic Knowledge Distillation Empowers Spiking Neural Networks for Efficient Single-Eye Emotion Recognition
+- [[IJCAI](https://www.ijcai.org/proceedings/2024/0348.pdf)] One-step Spiking Transformer with a Linear Complexity
 - [[IJCAI](https://arxiv.org/abs/2401.11687)] TIM: An Efficient Temporal Interaction Module for Spiking Transformer
-- [[IJCAI]()] Learning a Spiking Neural Network for Efficient Image Deraining
+- [[IJCAI](https://arxiv.org/pdf/2405.06277)] Learning a Spiking Neural Network for Efficient Image Deraining
 - [[IJCAI](https://arxiv.org/abs/2401.14652)] LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization
-- [[IJCAI]()] EC-SNN: Splitting Deep Spiking Neural Networks for Edge Devices [[code](https://github.com/AmazingDD/EC-SNN)]
+- [[IJCAI](https://www.ijcai.org/proceedings/2024/0596.pdf)] EC-SNN: Splitting Deep Spiking Neural Networks for Edge Devices [[code](https://github.com/AmazingDD/EC-SNN)]
 - [[ICML](https://icml.cc/virtual/2024/poster/35073)] Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning
 - [[ICML](https://icml.cc/virtual/2024/poster/33505)] Towards efficient deep spiking neural networks construction with spiking activity based pruning
 - [[ICML](https://arxiv.org/abs/2402.01533)] Efficient and Effective Time-Series Forecasting with Spiking Neural Networks
@@ -88,7 +106,8 @@ The survey paper
 - [[ICML](https://icml.cc/virtual/2024/poster/34066)] Enhancing Adversarial Robustness in SNNs with Sparse Gradients
 - [[ICML](https://icml.cc/virtual/2024/poster/34194)] SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN
 - [[CVPR](https://arxiv.org/pdf/2403.14302.pdf)] SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks [[code](https://github.com/xyshi2000/SpikingResformer)]
-- [[CVPR](https://arxiv.org/pdf/2311.10802.pdf)] Are Conventional SNNs Really Efficient? A Perspective from Network Quantization 
+- [[CVPR](https://arxiv.org/pdf/2311.10802.pdf)] Are Conventional SNNs Really Efficient? A Perspective from Network Quantization
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_SFOD_Spiking_Fusion_Object_Detector_CVPR_2024_paper.pdf)] SFOD: Spiking Fusion Object Detector 
 - [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29114)] Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks [[code](https://github.com/yfguo91/Ternary-Spike)]
 - [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29616)] Memory-Efficient Reversible Spiking Neural Networks [[code](https://github.com/mi804/RevSNN)]
 - [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/27816)] Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks [[code](https://github.com/bollossom/GAC)]
