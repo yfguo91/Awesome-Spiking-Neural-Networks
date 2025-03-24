@@ -80,9 +80,25 @@ The survey paper
 - [[ACM MM](https://openreview.net/pdf?id=rLG6KQMs42)] RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding [[code](https://github.com/KemingWu/RSC-SNN)]
 - [[ACM MM](https://openreview.net/pdf?id=r9X3P6qvAj)] Reversing Structural Pattern Learning with Biologically Inspired Knowledge Distillation for Spiking Neural Networks
 - [[ACM MM](https://openreview.net/pdf?id=y4kdAruRWT)] PSSD-Transformer: Powerful Sparse Spike-Driven Transformer for Image Semantic Segmentation
-
-
-
+- [[NeurIPS](https://arxiv.org/pdf/2410.02249)] Spiking Neural Network as Adaptive Event Stream Slicer
+- [[NeurIPS](https://arxiv.org/pdf/2410.11488)] Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation [[code](https://github.com/Tab-ct/rate-based-backpropagation)]
+- [[NeurIPS](https://arxiv.org/pdf/2410.17941)] Spiking Graph Neural Network on Riemannian Manifolds
+- [[NeurIPS](https://openreview.net/pdf?id=fs28jccJj5)] SpikedAttention: Training-Free and Fully Spike-Driven Transformer-to-SNN Conversion with Winner-Oriented Spike Shift for Softmax Operation [[code](https://github.com/sangwoohwang/SpikedAttention)]
+- [[NeurIPS](https://openreview.net/pdf?id=GYqs5Z4joA)] SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network [[code](https://github.com/guoweiyu/SpGesture/)]
+- [[NeurIPS](https://openreview.net/pdf?id=mCWZj7pa0M)] Exact Gradients for Stochastic Spiking Neural Networks Driven by Rough Signals
+- [[NeurIPS](https://openreview.net/pdf?id=GeE5qF6ICg)] Neuronal Competition Groups with Supervised STDP for Spike-Based Classification
+- [[NeurIPS](https://openreview.net/pdf?id=6AepMNrz7a)] Rethinking the Membrane Dynamics and Optimization Objectives of Spiking Neural Networks [[code](https://github.com/StephenTaylor1998/IMP-SNN)]
+- [[NeurIPS](https://openreview.net/pdf?id=SpcEwP6EYt)] EnOF-SNN: Training Accurate Spiking Neural Networks via Enhancing the Output Feature
+- [[NeurIPS](https://openreview.net/pdf?id=CyCDqnrymT)] Spike-based Neuromorphic Model for Sound Source Localization
+- [[NeurIPS](https://openreview.net/pdf?id=iYcY7KAkSy)] Spiking Token Mixer: An event-driven friendly Former structure for spiking neural networks [[code](https://github.com/brain-intelligence-lab/STMixer_demo)]
+- [[NeurIPS](https://openreview.net/pdf?id=WcIeEtY3AG)] Spiking Transformer with Experts Mixture
+- [[NeurIPS](https://openreview.net/pdf?id=zNIhPZnqhh)] Continuous Spatiotemporal Events Decoupling through Spike-based Bayesian Computation
+- [[NeurIPS](https://openreview.net/pdf?id=xjyU6zmZD7)] Take A Shortcut Back: Mitigating the Gradient Vanishing for Training Spiking Neural Networks
+- [[NeurIPS](https://openreview.net/pdf?id=95VyH4VxN9)] Autonomous Driving with Spiking Neural Networks [[code](https://github.com/ridgerchu/SAD)]
+- [[NeurIPS](https://openreview.net/pdf?id=bxDok3uaK6)] Long-Range Feedback Spiking Network Captures Dynamic and Static Representations of the Visual Cortex under Movie Stimuli [[code](https://github.com/Grasshlw/SNN-Neural-Similarity-Movie)]
+- [[NeurIPS](https://openreview.net/pdf?id=TuCQdBo4NC)] FEEL-SNN: Robust Spiking Neural Networks with Frequency Encoding and Evolutionary Leak Factor [[code](https://github.com/zju-bmi-lab/FEEL_SNN)]
+- [[NeurIPS](https://openreview.net/pdf?id=4A5IQEjG8c)] Slack-Free Spiking Neural Network Formulation for Hypergraph Minimum Vertex Cover
+- [[NeurIPS](https://arxiv.org/pdf/2403.16552)] QKFormer: Hierarchical Spiking Transformer using Q-K Attention [[code](https://github.com/zhouchenlin2096/QKFormer)]
 
 
 
