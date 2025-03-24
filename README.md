@@ -99,9 +99,14 @@ The survey paper
 - [[NeurIPS](https://openreview.net/pdf?id=TuCQdBo4NC)] FEEL-SNN: Robust Spiking Neural Networks with Frequency Encoding and Evolutionary Leak Factor [[code](https://github.com/zju-bmi-lab/FEEL_SNN)]
 - [[NeurIPS](https://openreview.net/pdf?id=4A5IQEjG8c)] Slack-Free Spiking Neural Network Formulation for Hypergraph Minimum Vertex Cover
 - [[NeurIPS](https://arxiv.org/pdf/2403.16552)] QKFormer: Hierarchical Spiking Transformer using Q-K Attention [[code](https://github.com/zhouchenlin2096/QKFormer)]
-
-
-
+- [[NeurIPS](https://openreview.net/pdf?id=kQMyiDWbOG)] Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators [[code](https://github.com/microsoft/SeqSNN)]
+- [[ICASSP](https://ieeexplore.ieee.org/document/10446789)] Spiking-Leaf: A Learnable Auditory Front-End for Spiking Neural Networks
+- [[ICASSP](https://ieeexplore.ieee.org/document/10446945)] SVAD: A Robust, Low-Power, and Light-Weight Voice Activity Detection with Spiking Neural Networks
+- [[ICASSP](https://ieeexplore.ieee.org/document/10448152)] Spiking Structured State Space Model for Monaural Speech Enhancement
+- [[ICASSP](https://ieeexplore.ieee.org/document/10447780)] Probabilistic Spike Train Inference
+- [[ICASSP](https://ieeexplore.ieee.org/document/10446631)] Sparsespikformer: A Co-Design Framework for Token and Weight Pruning in Spiking Transformer
+- [[ICASSP](https://ieeexplore.ieee.org/document/10447121)] Training Ultra-Low-Latency Spiking Neural Networks from Scratch
+- [[ICASSP](https://ieeexplore.ieee.org/document/10445826)] Recent Advances in Scalable Energy-Efficient and Trustworthy Spiking Neural Networks: from Algorithms to Technology
 - [[IJCAI](https://arxiv.org/pdf/2407.09521)] Apprenticeship-Inspired Elegance: Synergistic Knowledge Distillation Empowers Spiking Neural Networks for Efficient Single-Eye Emotion Recognition
 - [[IJCAI](https://www.ijcai.org/proceedings/2024/0348.pdf)] One-step Spiking Transformer with a Linear Complexity
 - [[IJCAI](https://arxiv.org/abs/2401.11687)] TIM: An Efficient Temporal Interaction Module for Spiking Transformer
